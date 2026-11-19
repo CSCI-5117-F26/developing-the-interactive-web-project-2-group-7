@@ -4,13 +4,13 @@ CSCI 5117, Fall 2026, [assignment description](https://canvas.umn.edu/courses/57
 
 ## App Info:
 
-* Team Name: TODO
+* Team Name: HARMless
 * App Name: TODO
 * App Link: <https://TODO.com/>
 
 ### Students
 
-* First Last, x500@umn.edu
+* Amelia Vrieze, vriez051@umn.edu
 * ...
 
 
@@ -35,7 +35,46 @@ Which (if any) progressive web app feature(s) does your app support?
 
 **[Add images/photos that show your mockup](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) along with a very brief caption:**
 
-![](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+[Link to Figma](https://www.figma.com/design/gbpX9Qh82GEYrpzjKzrwg2/5117--HARMless?node-id=389-130&t=A3ZYxZYqTAd6UCXZ-1)
+
+### Splash page (load screen), Signup, and Login
+![](mockups/login-signup.png)
+
+### Home page
+![](mockups/home.png)
+
+### Calendar view
+![](mockups/calendar.png)
+
+### Set up an event
+![](mockups/event-setup.png)
+
+### Delete an event
+![](mockups/delete-event.png)
+
+### View/Modify event details
+![](mockups/event-details.png)
+
+### Todo list
+![](mockups/todo.png)
+
+### Wishlist
+![](mockups/wishlist.png)
+
+### Guest list
+![](mockups/guestlist.png)
+
+### Itinerary
+![](mockups/itinerary.png)
+
+### Budget Tracking
+![](mockups/budget-tracking.png)
+
+### My events view
+![](mockups/my-events.png)
+
+### Profile and logout
+![](mockups/profile.png)
 
 
 ## Testing Notes
