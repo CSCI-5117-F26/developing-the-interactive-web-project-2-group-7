@@ -10,8 +10,10 @@ CSCI 5117, Fall 2026, [assignment description](https://canvas.umn.edu/courses/57
 
 ### Students
 
-* Amelia Vrieze, vriez051@umn.edu
-* ...
+* **H**ema Poojitha Chandu, chand968@umn.edu
+* **A**melia Vrieze, vriez051@umn.edu
+* **R**ezky Dwisantika, dwisa001@umn.edu
+* **M**ayli Winters, winte928@umn.edu
 
 
 ## Key Features
@@ -49,9 +51,6 @@ Which (if any) progressive web app feature(s) does your app support?
 ### Set up an event
 ![](mockups/event-setup.png)
 
-### Delete an event
-![](mockups/delete-event.png)
-
 ### View/Modify event details
 ![](mockups/event-details.png)
 
@@ -72,6 +71,9 @@ Which (if any) progressive web app feature(s) does your app support?
 
 ### My events view
 ![](mockups/my-events.png)
+
+### Delete an event
+![](mockups/delete-event.png)
 
 ### Profile and logout
 ![](mockups/profile.png)
