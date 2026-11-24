@@ -1,5 +1,5 @@
 import { betterAuth } from "better-auth";
-import { db, mongo_client } from "./mongo";
+import { db, mongo_client } from "./mongo.server";
 import { mongodbAdapter } from "@better-auth/mongo-adapter";
 import { sveltekitCookies } from "better-auth/svelte-kit";
 import { getRequestEvent } from "$app/server";
