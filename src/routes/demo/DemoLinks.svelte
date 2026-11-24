@@ -1,8 +1,8 @@
-<script lang="ts">
+<!-- <script lang="ts">
 	import { resolve } from '$app/paths';
 
 	const demos = [{ name: 'better-auth', href: resolve('/demo/better-auth') }];
-</script>
+</script> -->
 
 <!--
 	@component
@@ -11,7 +11,7 @@
 	To remove: delete `<DemoLinks />` and its import, then `demo/DemoLinks.svelte`.
 -->
 
-<div class="sv-demo-links">
+<!-- <div class="sv-demo-links">
 	<p>sv addon demos</p>
 
 	<ul>
@@ -21,9 +21,9 @@
 	</ul>
 
 	<a class="home" href={resolve('/')}>home</a>
-</div>
+</div> -->
 
-<style>
+<!-- <style>
 	.sv-demo-links {
 		position: fixed;
 		right: 1.25rem;
@@ -87,4 +87,4 @@
 	.home:visited {
 		color: #6b6420;
 	}
-</style>
+</style> -->
